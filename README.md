@@ -82,15 +82,16 @@ Open index.html using Live Server or directly in the browser.
 
 ---
 
-## 📌 Future Enhancements
-  -Store messages in a database (MongoDB)
-  -Auto-reply emails to users
-  -Deploy backend to cloud (Render / Railway)
-  -SEO optimization
+## 🚀 Feature Enhancements
+
+- Store messages in a database (MongoDB)
+- Auto-reply emails to users
+- Deploy backend to cloud (Render / Railway)
+- SEO optimization
 
 ---
 
-👤 Author
+## 👤 Author
 
    Takreem Firdoz
     -Aspiring Full-Stack Developer | AI & ML Enthusiast
