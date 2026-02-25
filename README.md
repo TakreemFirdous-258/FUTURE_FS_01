@@ -58,18 +58,39 @@ FUTURE_FS_01/
 
 ## ⚙️ How to Run Locally
 
-### 1️⃣ Clone the repository
+### 1️⃣ Clone the repository 
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
 ### 2️⃣ Install backend dependencies
+```bash
+cd backend
+npm install
+```
 ### 3️⃣ Configure environment variables
+Create a .env file inside backend:
+```env
+EMAIL_USER=your_email@gmail.com
+EMAIL_PASS=your_app_password
+```
 ### 4️⃣ Start the backend server
+```bash
+node server.js
+```
 ### 5️⃣ Open the frontend
-## 📌 Future Enhancements
+Open index.html using Live Server or directly in the browser.
+
+---
+
+📌 Future Enhancements
   -Store messages in a database (MongoDB)
   -Auto-reply emails to users
   -Deploy backend to cloud (Render / Railway)
   -SEO optimization
 
-## 👤 Author
+---
+
+👤 Author
 
    Takreem Firdoz
     -Aspiring Full-Stack Developer | AI & ML Enthusiast
