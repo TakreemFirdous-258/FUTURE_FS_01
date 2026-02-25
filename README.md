@@ -82,7 +82,7 @@ Open index.html using Live Server or directly in the browser.
 
 ---
 
-📌 Future Enhancements
+## 📌 Future Enhancements
   -Store messages in a database (MongoDB)
   -Auto-reply emails to users
   -Deploy backend to cloud (Render / Railway)
